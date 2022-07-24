@@ -19,5 +19,5 @@ https://tailwindcss.com/docs/guides/nextjs
 ## Reference
 
 https://nextjs.org/blog/next-12-2  
-https://www.youtube.com/watch?v=j7rPSS9Ovsw&t=2241s  
+https://www.youtube.com/watch?v=j7rPSS9Ovsw  
 https://nextjs.org/docs/api-routes/edge-api-routes
