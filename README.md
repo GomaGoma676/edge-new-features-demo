@@ -1,5 +1,5 @@
 ## 🦊 Overview (new edge related features Nextjs12.2〜)
-This demo covers new middleware (A/B test example by Vercel) and comparison of Edge API route (ε) vs Conventional API route (λ).
+This demo covers new middleware (A/B test example by Vercel) and comparison of Edge API route (ε) vs Conventional API route (λ) with Supabase.
  You will see response time of Edge API route is much faster than conventional API route (λ) handled by Vercel's serverless function.  
 
 __Key points in new updates__  
