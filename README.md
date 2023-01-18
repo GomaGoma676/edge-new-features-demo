@@ -11,7 +11,7 @@ __Key points in new updates__
 ~~~
 npx create-next-app@12.3.3 edge-new-features --typescript
 yarn add next@12.3.3
-yarn add @heroicons/react@@1.0.6 @supabase/supabase-js@1.35.4  
+yarn add @heroicons/react@1.0.6 @supabase/supabase-js@1.35.4  
 yarn add -D tailwindcss postcss autoprefixer  
 yarn add -D prettier prettier-plugin-tailwindcss  
 ~~~
