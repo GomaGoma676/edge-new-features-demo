@@ -9,7 +9,8 @@ __Key points in new updates__
 
 ## Project setup
 ~~~
-npx create-next-app edge-new-features --typescript  
+npx create-next-app@12.3.3 edge-new-features --typescript
+yarn add next@12.3.3
 yarn add @heroicons/react @supabase/supabase-js  
 yarn add -D tailwindcss postcss autoprefixer  
 yarn add -D prettier prettier-plugin-tailwindcss  
